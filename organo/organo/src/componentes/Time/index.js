@@ -8,7 +8,7 @@ const Time = (props)=>{
                 {props.nome}
             </h3>
             <div class="colaboradores">
-                {props.colaboradores.map(colaborador=><Colaborador nome={colaborador.nome} cargo={colaborador.cargo} key={colaborador.nome}imagem={colaborador.imagem}
+                {props.colaboradores.map(colaborador=><Colaborador corDeFundo={props.corPrimaria}nome={colaborador.nome} cargo={colaborador.cargo} key={colaborador.nome}imagem={colaborador.imagem}
                 />)}
             </div>
         </section>
