@@ -6,6 +6,9 @@
     align-items: center;
     position: relative;
     height: 60px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
     .links__rodape{
        a{
         margin: 15px;
