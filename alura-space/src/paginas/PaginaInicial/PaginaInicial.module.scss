@@ -1,4 +1,21 @@
 .MenuEBanner{
     display:flex;
     margin-right:20px ;
+    margin: 0 24px;
+}
+main{
+    position: relative;
+}
+.galeria {
+    width: 83%;
+    position: absolute;
+    right: 0;
+    display:flex;
+    justify-content: space-between;
+    .galeria1{
+        width: 80%;
+    }
+    .populares{
+        width: 20%;
+    }
 }
