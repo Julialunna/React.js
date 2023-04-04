@@ -1,0 +1,20 @@
+@import '../../styles/variaveis';
+
+.rodape{
+    background-color: $azul-escuro;
+    display: flex;
+    align-items: center;
+    position: relative;
+    height: 60px;
+    .links__rodape{
+       a{
+        margin: 15px;
+       }
+    }
+    .desnvolvido__rodape{
+        font-family: $fonte-normal;
+        color: $cor-do-texto;
+        position: absolute;
+        right: 20px;
+    }
+}
