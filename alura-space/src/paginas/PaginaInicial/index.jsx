@@ -1,10 +1,11 @@
-import Banner from "../../componentes/Banner/Banner";
-import Cabecalho from "../../componentes/Cabecalho";
-import Galeria from "../../componentes/Galeria";
-import Menu from "../../componentes/Menu";
-import Populares from "../../componentes/Populares";
-import Rodape from "../../componentes/Rodape";
 import styles from './PaginaInicial.module.scss'
+
+import Banner from "componentes/Banner/Banner";
+import Cabecalho from "componentes/Cabecalho";
+import Galeria from "componentes/Galeria";
+import Menu from "componentes/Menu";
+import Populares from "componentes/Populares";
+import Rodape from "componentes/Rodape";
 
 
 export default function PaginaInicial(){
