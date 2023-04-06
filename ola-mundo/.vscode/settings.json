@@ -1,5 +1,4 @@
 { 
- "scss.lint.unknownAtRules": "ignore",
  "emmet.includeLanguages": {
      "javascript": "javascriptreact"
  },
