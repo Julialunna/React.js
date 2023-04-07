@@ -1,5 +1,5 @@
 import Banner from "componentes/Banner";
-import Post from 'componentes/Post';
+import Post from 'componentes/PostCard';
 import styles from './Inicio.module.css';
 import posts from 'json/posts.json'
 
