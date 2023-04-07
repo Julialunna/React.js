@@ -1,0 +1,7 @@
+.recomendados{
+    display: flex;
+}
+.recomendados li{
+    display: inline-block;
+    margin: 10px;
+}
