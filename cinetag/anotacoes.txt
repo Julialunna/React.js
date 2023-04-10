@@ -1,2 +1,4 @@
 imagens dinâmicas melhor ficar na pasta public 
 links-> <Link> do react router dom para ir para outra página
+quando quiser a mesma coisa em mais de uma página colocar elementos no browser router
+css comum criar container componentes
