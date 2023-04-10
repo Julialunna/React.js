@@ -7,7 +7,6 @@ import styles from './Inicio.module.css'
 function Inicio(){
     return(
       <>
-
         <Banner imagem='home'/>
         <Titulo>
             <h1>Um lugar para guardar seu vídeos e filmes!</h1>
