@@ -1,0 +1,2 @@
+imagens dinâmicas melhor ficar na pasta public 
+links-> <Link> do react router dom para ir para outra página
